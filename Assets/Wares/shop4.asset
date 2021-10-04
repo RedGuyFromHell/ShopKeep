@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fcfb473293a45745a22d55e794dd29d, type: 3}
+  m_Name: shop4
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 1fc7d2784f39bca4e9158ea31427d79a, type: 3}
+  recipe: {fileID: 11400000, guid: 221f2a19deba44b458a62b8a95dd68bc, type: 2}
+  name: Monster Stew
+  description: A stew that tries to make monster meat edible. Surprisingly, it tastes
+    good and gives lots of buffs.
+  price: 150
+  id: 3

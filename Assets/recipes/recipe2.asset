@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: recipe2
+  m_EditorClassIdentifier: Assembly-CSharp::recipe
+  product: {fileID: 11400000, guid: 11058c66e19fd50488a416000916840b, type: 2}
+  name: shop2 recipe
+  ingredients:
+  - {fileID: 11400000, guid: a34c4905e9cdf9c4e8696ac8b86fff89, type: 2}
+  - {fileID: 11400000, guid: 94c2030b268ee6f4daa8430f4fba32e1, type: 2}
+  id: 1
